@@ -41,7 +41,7 @@ namespace Ventas
             envio= new Form3();
             recado= new Form4();
         }
-        //Hola
+        
         void limpiar()
         {
            
