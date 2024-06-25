@@ -10,6 +10,9 @@ using System.Windows.Forms;
 
 namespace Ventas
 {
+
+    //Cliente, vendedor,producto (nombre y cantidad), venta y detalle de venta (cantidad)
+
     public partial class Form1 : Form
     {
         int indice;
@@ -41,7 +44,7 @@ namespace Ventas
             envio= new Form3();
             recado= new Form4();
         }
-        //Hola
+       
         void limpiar()
         {
            

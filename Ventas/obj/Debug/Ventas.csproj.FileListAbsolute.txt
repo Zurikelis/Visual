@@ -11,3 +11,16 @@ C:\Users\nivol\source\repos\Ventas\Ventas\obj\Debug\Ventas.pdb
 C:\Users\nivol\source\repos\Ventas\Ventas\obj\Debug\Ventas.Form2.resources
 C:\Users\nivol\source\repos\Ventas\Ventas\obj\Debug\Ventas.Form3.resources
 C:\Users\nivol\source\repos\Ventas\Ventas\obj\Debug\Ventas.Form4.resources
+C:\Users\Ramiro\Documents\GitHub\Visual\Ventas\bin\Debug\Ventas.exe.config
+C:\Users\Ramiro\Documents\GitHub\Visual\Ventas\bin\Debug\Ventas.exe
+C:\Users\Ramiro\Documents\GitHub\Visual\Ventas\bin\Debug\Ventas.pdb
+C:\Users\Ramiro\Documents\GitHub\Visual\Ventas\obj\Debug\Ventas.csproj.AssemblyReference.cache
+C:\Users\Ramiro\Documents\GitHub\Visual\Ventas\obj\Debug\Ventas.Form1.resources
+C:\Users\Ramiro\Documents\GitHub\Visual\Ventas\obj\Debug\Ventas.Form2.resources
+C:\Users\Ramiro\Documents\GitHub\Visual\Ventas\obj\Debug\Ventas.Form3.resources
+C:\Users\Ramiro\Documents\GitHub\Visual\Ventas\obj\Debug\Ventas.Form4.resources
+C:\Users\Ramiro\Documents\GitHub\Visual\Ventas\obj\Debug\Ventas.Properties.Resources.resources
+C:\Users\Ramiro\Documents\GitHub\Visual\Ventas\obj\Debug\Ventas.csproj.GenerateResource.cache
+C:\Users\Ramiro\Documents\GitHub\Visual\Ventas\obj\Debug\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Ramiro\Documents\GitHub\Visual\Ventas\obj\Debug\Ventas.exe
+C:\Users\Ramiro\Documents\GitHub\Visual\Ventas\obj\Debug\Ventas.pdb
