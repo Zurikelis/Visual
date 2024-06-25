@@ -1,34 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\",
+  "WorkspaceRootPath": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|c:\\users\\ramiro\\documents\\github\\visual\\ventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|c:\\users\\ramiro\\source\\repos\\zurikelis\\visual\\ventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\ventas\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\ventas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\ventas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\ventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\ventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\ventas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\ventas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\ventas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\ventas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\ventas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\ventas\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\ventas\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\ventas\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{337894F4-CE3A-4378-A9D9-3EB71C82EE5F}|Ventas\\Ventas.csproj|solutionrelative:ventas\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,30 +46,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\Ventas\\Form2.cs",
               "RelativeDocumentMoniker": "Ventas\\Form2.cs",
-              "ToolTip": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form2.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\Ventas\\Form2.cs",
               "RelativeToolTip": "Ventas\\Form2.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAAABUAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T07:00:38.013Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form3.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\Ventas\\Form3.cs",
               "RelativeDocumentMoniker": "Ventas\\Form3.cs",
-              "ToolTip": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form3.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Ventas\\Form3.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\nivol\\source\\repos\\Ventas\\Ventas\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\nivol\\source\\repos\\Ventas\\Ventas\\Form3.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T07:37:57.457Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -79,64 +81,72 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\Ventas\\Form3.cs",
               "RelativeDocumentMoniker": "Ventas\\Form3.cs",
-              "ToolTip": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form3.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\Ventas\\Form3.cs",
               "RelativeToolTip": "Ventas\\Form3.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwB8AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T07:43:59.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T07:43:59.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Form4.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\Ventas\\Form4.cs",
               "RelativeDocumentMoniker": "Ventas\\Form4.cs",
-              "ToolTip": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form4.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Ventas\\Form4.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\nivol\\source\\repos\\Ventas\\Ventas\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\nivol\\source\\repos\\Ventas\\Ventas\\Form4.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T08:06:59.397Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-02T08:06:59.397Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Form4.cs",
-              "DocumentMoniker": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\Ventas\\Form4.cs",
               "RelativeDocumentMoniker": "Ventas\\Form4.cs",
-              "ToolTip": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form4.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\Ventas\\Form4.cs",
               "RelativeToolTip": "Ventas\\Form4.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAYwBUAAADtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T08:10:06.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T08:10:06.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form1.cs",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\Ventas\\Form1.cs",
               "RelativeDocumentMoniker": "Ventas\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Ventas\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\Ventas\\Form1.cs [Design]",
+              "RelativeToolTip": "Ventas\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T22:51:59.998Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\Ventas\\Form1.cs",
               "RelativeDocumentMoniker": "Ventas\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ramiro\\Documents\\GitHub\\Visual\\Ventas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\Ventas\\Form1.cs",
               "RelativeToolTip": "Ventas\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwCsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T00:53:41.118Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ramiro\\source\\repos\\Zurikelis\\Visual\\Ventas\\Form2.cs",
+              "RelativeDocumentMoniker": "Ventas\\Form2.cs",
+              "ToolTip": "C:\\Users\\nivol\\source\\repos\\Ventas\\Ventas\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\nivol\\source\\repos\\Ventas\\Ventas\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:57:37.309Z"
             }
           ]
         }
